@@ -1,0 +1,25 @@
+{
+  "name": "botik_kotik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PronskayaAnastasiya/Botik_kotik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PronskayaAnastasiya/Botik_kotik/issues"
+  },
+  "homepage": "https://github.com/PronskayaAnastasiya/Botik_kotik#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.59.0",
+    "nodemon": "^2.0.20"
+  }
+}
